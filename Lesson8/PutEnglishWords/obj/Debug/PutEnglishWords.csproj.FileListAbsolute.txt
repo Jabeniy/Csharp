@@ -1,0 +1,10 @@
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\bin\Debug\PutEnglishWords.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\bin\Debug\PutEnglishWords.exe
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\bin\Debug\PutEnglishWords.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.Form1.resources
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.Properties.Resources.resources
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.csproj.GenerateResource.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.exe
+C:\Users\CYBERKIDS\Desktop\Lesson8\PutEnglishWords\obj\Debug\PutEnglishWords.pdb

@@ -1,0 +1,10 @@
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\CYBERKIDS\Desktop\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb

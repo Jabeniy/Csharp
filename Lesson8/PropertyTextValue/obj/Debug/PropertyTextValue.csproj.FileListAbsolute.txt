@@ -1,0 +1,10 @@
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\bin\Debug\PropertyTextValue.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\bin\Debug\PropertyTextValue.exe
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\bin\Debug\PropertyTextValue.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.Form1.resources
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.Properties.Resources.resources
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.GenerateResource.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.exe
+C:\Users\CYBERKIDS\Desktop\Lesson8\PropertyTextValue\obj\Debug\PropertyTextValue.pdb
