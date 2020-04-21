@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\bin\Debug\TableFunc.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\bin\Debug\TableFunc.exe
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\bin\Debug\TableFunc.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\obj\Debug\TableFunc.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\obj\Debug\TableFunc.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\obj\Debug\TableFunc.exe
+C:\Users\CYBERKIDS\Desktop\Lesson6\TableFunc\obj\Debug\TableFunc.pdb
