@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\bin\Debug\SumOfDataWithExeption.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\bin\Debug\SumOfDataWithExeption.exe
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\bin\Debug\SumOfDataWithExeption.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\obj\Debug\SumOfDataWithExeption.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\obj\Debug\SumOfDataWithExeption.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\obj\Debug\SumOfDataWithExeption.exe
+C:\Users\CYBERKIDS\Desktop\Lesson3\SumOfDataWithExeption\obj\Debug\SumOfDataWithExeption.pdb
