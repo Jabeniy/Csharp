@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\bin\Debug\Autorisation.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\bin\Debug\Autorisation.exe
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\bin\Debug\Autorisation.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\obj\Debug\Autorisation.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\obj\Debug\Autorisation.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\obj\Debug\Autorisation.exe
+C:\Users\CYBERKIDS\Desktop\Lesson4\Autorisation\obj\Debug\Autorisation.pdb

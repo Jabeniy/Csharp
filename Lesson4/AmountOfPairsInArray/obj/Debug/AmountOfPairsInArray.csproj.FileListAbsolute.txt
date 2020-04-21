@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\bin\Debug\AmountOfPairsInArray.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\bin\Debug\AmountOfPairsInArray.exe
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\bin\Debug\AmountOfPairsInArray.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\obj\Debug\AmountOfPairsInArray.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\obj\Debug\AmountOfPairsInArray.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\obj\Debug\AmountOfPairsInArray.exe
+C:\Users\CYBERKIDS\Desktop\Lesson4\AmountOfPairsInArray\obj\Debug\AmountOfPairsInArray.pdb
