@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\bin\Debug\ThreeWorstPupils.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\bin\Debug\ThreeWorstPupils.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\bin\Debug\ThreeWorstPupils.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\obj\Debug\ThreeWorstPupils.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\obj\Debug\ThreeWorstPupils.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\obj\Debug\ThreeWorstPupils.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\ThreeWorstPupils\obj\Debug\ThreeWorstPupils.pdb

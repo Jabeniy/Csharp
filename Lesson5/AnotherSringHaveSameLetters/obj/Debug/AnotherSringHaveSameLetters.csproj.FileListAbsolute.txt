@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\bin\Debug\AnotherSringHaveSameLetters.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\bin\Debug\AnotherSringHaveSameLetters.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\bin\Debug\AnotherSringHaveSameLetters.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\obj\Debug\AnotherSringHaveSameLetters.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\obj\Debug\AnotherSringHaveSameLetters.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\obj\Debug\AnotherSringHaveSameLetters.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\AnotherSringHaveSameLetters\obj\Debug\AnotherSringHaveSameLetters.pdb

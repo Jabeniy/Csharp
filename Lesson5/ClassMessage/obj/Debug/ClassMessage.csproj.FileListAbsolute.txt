@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\bin\Debug\ClassMessage.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\bin\Debug\ClassMessage.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\bin\Debug\ClassMessage.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\obj\Debug\ClassMessage.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\obj\Debug\ClassMessage.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\obj\Debug\ClassMessage.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\ClassMessage\obj\Debug\ClassMessage.pdb

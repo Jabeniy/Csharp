@@ -1,0 +1,7 @@
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\bin\Debug\CorrectLogin.exe.config
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\bin\Debug\CorrectLogin.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\bin\Debug\CorrectLogin.pdb
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\obj\Debug\CorrectLogin.csprojAssemblyReference.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\obj\Debug\CorrectLogin.csproj.CoreCompileInputs.cache
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\obj\Debug\CorrectLogin.exe
+C:\Users\CYBERKIDS\Desktop\Lesson5\CorrectLogin\obj\Debug\CorrectLogin.pdb
